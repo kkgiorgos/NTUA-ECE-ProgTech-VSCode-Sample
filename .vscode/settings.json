@@ -1,0 +1,9 @@
+{
+    "files.insertFinalNewline": true,
+    "files.associations": {
+        "pzhelp": "cpp",
+        "cstddef": "cpp",
+        "cstdarg": "cpp",
+        "iostream": "cpp"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+      "cantonios.project-templates",
+      "ms-vscode.cpptools",
+      "ms-vscode-remote.remote-wsl"
+    ]
+  }
